@@ -1,0 +1,15 @@
+Today I completed the basics of 
+Terminal & Linux
+file/folder operations
+process & port management
+environment variables & PATH
+package managers (pip/npm)
+and Git fundamentals
+
+
+I also went through the commonly used commands and methods for each topic and practiced them hands-on to understand their practical usage using the terminal and command-line environment. I also started working on a basic API, but since my OS was changed to Linux today and the setup was not fully completed, I focused more on understanding and properly practicing the terminal commands.
+
+
+
+This is a file similar to that i already pushed the file to main branch so trying again by making another branch and sending pull request from github
+
